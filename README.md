@@ -1,0 +1,2 @@
+# Music-Recommendations-System-based-on-user-s-Facial-Expression-using-Machine-Learning
+A Music Recommendation System Using Facial Expression uses artificial intelligence to analyze a user's facial expressions and detect their emotional state, such as happiness, sadness, or excitement. Based on the detected emotion, the system suggests personalized music playlists or tracks that align with the user's mood.
